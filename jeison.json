@@ -1,22 +1,22 @@
 {
-  "students": [
+  "prodapt": [
     {
-      "name": "jhjhhj",
-      "age": 26,
-      "email": "mark@mail.com",
-      "isEnrolled": false
+      "name": "Jeison.J.Raj",
+      "age": 21,
+      "email": "jeison.j@prodapt.com",
+      "assettag": "I1F22CLAP2904"
     },
      {
-      "name": "juan cruz",
+      "name": "Gowtham",
       "age": 24,
-      "email": "cruz@mail.com",
-      "isEnrolled": true
+      "email": "gowtham@prodapt.com",
+      "assettag": "I1F22CLAP3583"
     },
      {
       "name": "based jovito",
       "age": 25,
       "email": "based@mail.com",
-      "isEnrolled": false
+      "assettag": "I1F22CLAP3582"
     }
   ]
 }
